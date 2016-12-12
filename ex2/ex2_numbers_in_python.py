@@ -1,4 +1,4 @@
-# file: ex1_hello_world.py
+# file: ex2_numbers_in_python.py
 # Author: A. Laszlo Lazuer
 # date: 12/12/16
 # description: A demonstration of Basic Arithmetic in Python
