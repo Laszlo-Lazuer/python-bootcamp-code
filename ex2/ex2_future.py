@@ -1,6 +1,7 @@
 # file: ex2_future.py
 # Author: A. Laszlo Lazuer
 # date: 12/12/16
+# Python Version: 2.7
 # description: An example demoing how to use Python 3 features in Python 2
 
 #Library Import

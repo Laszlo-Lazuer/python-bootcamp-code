@@ -1,6 +1,7 @@
 # file: ex2_numbers_in_python.py
 # Author: A. Laszlo Lazuer
 # date: 12/12/16
+# Python Version: 2.7
 # description: A demonstration of Basic Arithmetic in Python
 
 print 'Numbers in Python'
