@@ -1,8 +1,7 @@
-__author__ = "Laszlo Lazuer"
-__credits__ = ["Laszlo Lazuer"]
-__license__ = "MIT"
-__version__ = "1.0"
-__maintainer__ = "Laszlo Lazuer"
+# file: ex1_hello_world.py
+# Author: A. Laszlo Lazuer
+# date: 12/12/16
+# description: A demonstration of Basic Arithmetic in Python
 
 print 'Numbers in Python'
 
@@ -71,6 +70,3 @@ my_income = 100
 tax_rate = 0.1
 my_taxes = my_income*tax_rate
 print my_taxes
-
-
-
