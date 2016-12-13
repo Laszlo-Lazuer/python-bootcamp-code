@@ -7,7 +7,7 @@ This Project will cover the following items:
 3. Course Project implementations.
 
 Course Information:
-I am taking the following course from UDEMY:
+I am taking the following course from udemy:
 https://www.udemy.com/complete-python-bootcamp/
 
 I highly recommend this course to anyone interested in learning Python.  I do not
