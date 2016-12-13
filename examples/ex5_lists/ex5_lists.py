@@ -1,8 +1,8 @@
-# file: ex5_lists.py
+# File: ex5_lists.py
 # Author: A. Laszlo Lazuer
-# date: 12/12/16
+# Date: 12/12/16
 # Python Version: 2.7
-# description: A demonstration of lists in Python
+# Description: A demonstration of lists in Python
 
 print 'Lists'
 
